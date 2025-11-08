@@ -1,9 +1,18 @@
 {
-  "hi": "Hello! 👋 I'm AppstarAI Assistant. How can I help you today?",
-  "hello": "Hey there 👋! How can I help you today?",
-  "who created you": "I was created by the AppstarAI team.",
-  "what is appstarai": "AppstarAI is an AI automation startup.",
-  "contact": "You can contact us at support@appstarai.com",
-  "bye": "Goodbye! 👋 Have a great day!"
+  "welcome": "🤖 Welcome to AppstarAI! I'm your AI Assistant.\n\n**Our Services:**\n• AI Automation Solutions\n• Chatbot Development\n• Business Process Optimization\n• Custom AI Integration\n\nHow can I help you today? You can ask about our services, pricing, or say 'menu' to see options!",
+  "hi": "Hello! 👋 I'm AppstarAI Assistant. How can I help you today?\n\nType 'menu' to see our services or 'help' for assistance.",
+  "hello": "Hey there 👋! Welcome to AppstarAI! How can I help you today?\n\nType 'menu' to see our services or 'help' for assistance.",
+  "menu": "📋 **AppstarAI Services Menu:**\n\n1️⃣ AI Automation Solutions\n2️⃣ Chatbot Development\n3️⃣ Business Process Optimization\n4️⃣ Custom AI Integration\n5️⃣ Pricing Information\n6️⃣ Contact Support\n\nJust tell me the number or describe what you're interested in!",
+  "help": "💡 **How to use this chatbot:**\n\n• Type 'menu' to see our services\n• Type 'pricing' for cost information\n• Type 'contact' to reach our team\n• Ask about specific services\n• Type 'hello' or 'hi' to start over\n\nWhat would you like to know about?",
+  "pricing": "💰 **Pricing Information:**\n\nOur pricing varies based on your specific needs:\n• Basic Chatbot: Starting at $99/month\n• AI Automation: Custom quote based on requirements\n• Enterprise Solutions: Contact for pricing\n\nWould you like a personalized quote? Type 'contact' to connect with our sales team.",
+  "1": "🤖 **AI Automation Solutions**\n\nWe help automate your business processes using cutting-edge AI technology. Our solutions can handle:\n• Customer service automation\n• Data processing and analysis\n• Workflow optimization\n• Intelligent document processing\n\nInterested in learning more? Type 'contact' to speak with our team.",
+  "2": "💬 **Chatbot Development**\n\nWe create intelligent chatbots tailored to your business needs:\n• Customer support bots\n• Sales and lead generation bots\n• FAQ and information bots\n• Multi-platform integration\n\nWant a custom chatbot for your business? Type 'contact' to get started!",
+  "3": "⚡ **Business Process Optimization**\n\nStreamline your operations with our AI-powered solutions:\n• Process analysis and improvement\n• Resource allocation optimization\n• Performance monitoring\n• Cost reduction strategies\n\nReady to optimize your processes? Type 'contact' for a consultation.",
+  "4": "🔧 **Custom AI Integration**\n\nWe integrate AI solutions into your existing systems:\n• API development and integration\n• Machine learning model deployment\n• Data pipeline creation\n• System architecture design\n\nNeed custom AI integration? Type 'contact' to discuss your project.",
+  "who created you": "I was created by the AppstarAI team to help you learn about our services and assist with your AI automation needs.",
+  "what is appstarai": "AppstarAI is an AI automation startup that helps businesses transform their operations with cutting-edge artificial intelligence solutions. 🚀",
+  "contact": "📞 **Contact Us:**\n\n📧 Email: support@appstarai.com\n💬 Chat: Available Monday-Friday, 9 AM - 6 PM EST\n📱 Phone: +1-800-APPSTAR\n\nOur team is ready to help you with your AI automation journey!",
+  "bye": "Goodbye! 👋 Thank you for chatting with AppstarAI. Have a great day!\n\nFeel free to return anytime you need AI automation assistance.",
+  "thanks": "You're very welcome! 🙏 I'm glad I could help. If you have any more questions about our AI services, just ask!",
+  "thank you": "You're very welcome! 🙏 I'm glad I could help. If you have any more questions about our AI services, just ask!"
 }
-

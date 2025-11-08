@@ -1,6 +1,7 @@
 version: "3.8"
 
 services:
+  # 🟢 MongoDB Database
   mongo:
     image: mongo:6.0
     ports:
@@ -8,6 +9,7 @@ services:
     volumes:
       - mongo_data:/data/db
 
+  # 🔵 Flask Backend
   app:
     build: .
     ports:
@@ -17,6 +19,17 @@ services:
       - MONGO_DB=appstarai_db
     depends_on:
       - mongo
+
+  # 🟣 Streamlit UI
+  ui:
+    build: .
+    command: streamlit run app/ui.py --server.port 8501 --server.address 0.0.0.0
+    ports:
+      - "8501:8501"
+    environment:
+      - APP_API_URL=http://app:8000/chat
+    depends_on:
+      - app
 
 volumes:
   mongo_data:
